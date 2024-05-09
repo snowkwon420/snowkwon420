@@ -1,10 +1,14 @@
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:88B14B,100:91EAE4&height=150&section=header&%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
-## 🌳 프론트엔드 개발자 권순호입니다
+<div align="center">
+<div align="center">
+<h2>🌳 프론트엔드 개발자 권순호입니다</h2> 
 
 <h3>🌱About me</h3> 
-<a href="https://velog.io/@sj_yun" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:pcohad12@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-F24E1E?style=flat-square&logo=gmail&logoColor=white"/></a>
+</div>
 <br/>
 
 <br>
@@ -23,7 +27,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junny97&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowkwon420&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
