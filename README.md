@@ -1,8 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:88B14B,100:91EAE4&height=150&section=header&text=Seojun's%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=35)
-
-<div align="center">
 
 ## 🌳 프론트엔드 개발자 권순호입니다
 
